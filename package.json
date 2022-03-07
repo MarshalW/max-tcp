@@ -13,12 +13,14 @@
     "max-tcp": "bin/app"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "commander": "^9.0.0",
     "max-tcp": "^1.3.4"
+  },
+  "devDependencies": {
   }
 }
